@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "manish",
+      "lastName": "singhal",
+      "email": "m@gmail.com",
+      "dob": "2024-03-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "nkc",
+      "experience": "8",
+      "package": "58",
+      "id": "3be7"
+    },
+    {
+      "firstName": "manish",
+      "lastName": "singhal",
+      "email": "sm@gmail.com",
+      "dob": "2024-03-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "nkc",
+      "experience": "13",
+      "package": "96",
+      "id": "a1fc"
+    },
+    {
+      "firstName": "lucky",
+      "lastName": "singhal",
+      "email": "lucky@gmail.com",
+      "dob": "2024-03-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "nkc",
+      "experience": "11",
+      "package": "88",
+      "id": "3d55"
+    },
+    {
+      "firstName": "manish",
+      "lastName": "singhal",
+      "email": "sm@gmail.com",
+      "dob": "2024-03-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "NKC",
+      "experience": "6",
+      "package": "89",
+      "id": "31d3"
+    },
+    {
+      "id": "7e6c",
+      "firstName": "ms",
+      "lastName": "singhal",
+      "email": "m@gmail.com",
+      "dob": "2024-02-29T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "nkc",
+      "experience": "1",
+      "package": "99"
+    },
+    {
+      "id": "2fe4",
+      "firstName": "upi",
+      "lastName": "payt",
+      "email": "py@gmail.com",
+      "dob": "2024-03-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "dfdf",
+      "experience": "1",
+      "package": "2"
+    },
+    {
+      "firstName": "manish host",
+      "lastName": "ms",
+      "email": "host@gmail.com",
+      "dob": "2024-03-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "nkc",
+      "experience": "8",
+      "package": "94",
+      "id": "7e3c"
+    },
+    {
+      "firstName": "most",
+      "lastName": "importtent",
+      "email": "most@gmail.com",
+      "dob": "2024-03-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "nkc",
+      "experience": "5",
+      "package": "55",
+      "id": "a447"
+    }
+  ]
+}
